@@ -62,5 +62,3 @@ Có nhiều loại Enemy trong Bomberman, tuy nhiên trong phiên bản này ch�
 3. Xử lý hiệu ứng âm thanh (thêm music & sound effects) +1đ
 4. Phát triển hệ thống server-client để nhiều người có thể cùng chơi qua mạng LAN hoặc Internet +1đ
 5. Những ý tưởng khác sẽ được đánh giá và cộng điểm theo mức tương ứng
-
-[<img alt="Ask DeepWiki" src="https://deepwiki.com/badge.svg"/>](https://deepwiki.com/Khoaph1709/Bomberman-Game)
