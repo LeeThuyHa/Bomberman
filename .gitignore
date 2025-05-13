@@ -1,0 +1,7 @@
+/target
+/bin
+/.idea
+*.iml
+/.vscode
+/.run
+.run/BombermanGame.run.xml
